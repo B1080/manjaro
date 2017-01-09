@@ -1,0 +1,471 @@
+xrdb:  "XTerm*background" on line 188 overrides entry on line 31
+xrdb:  "XTerm*foreground" on line 189 overrides entry on line 32
+xrdb:  "XTerm*faceName" on line 191 overrides entry on line 34
+cp: cannot create regular file '/home/manjaro/.local/share/icons/default/index.theme': No such file or directory
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+conky: desktop window (f7) is root window
+conky: window type - override
+conky: drawing to created window (0xa00001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1177
+
+conky: desktop window (f7) is root window
+conky: window type - override
+conky: drawing to created window (0x1600001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1184
+
+
+(clipit:1121): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(clipit:1121): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1125): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1125): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:138:54: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:169:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:179:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:188:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:195:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:202:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:210:71: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:219:73: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:228:72: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:440:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:138:54: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:169:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:179:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:188:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:195:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:202:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:210:71: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:219:73: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:228:72: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:440:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:510:72: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:548:72: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:619:74: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:625:76: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:651:73: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:657:75: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:510:72: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:548:72: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:619:74: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:625:76: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:651:73: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:657:75: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:724:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:138:54: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:169:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:179:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:188:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:195:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:202:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:210:71: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:219:73: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:228:72: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:440:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:724:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:510:72: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:548:72: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:619:74: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:625:76: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:651:73: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:657:75: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1295:60: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1307:62: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1359:62: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1372:72: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1426:54: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1437:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1447:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1456:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1465:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1295:60: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1307:62: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1359:62: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1372:72: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:724:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1426:54: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1437:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1447:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1456:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1465:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1534:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1588:74: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1594:76: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1534:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1588:74: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1594:76: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1620:73: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:1626:75: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1620:73: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:1626:75: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1295:60: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1307:62: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1359:62: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1372:72: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1426:54: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1437:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1447:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1456:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1465:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:138:54: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:169:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:179:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:188:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:195:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:202:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:210:71: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:219:73: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:228:72: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:440:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1534:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1588:74: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1594:76: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1620:73: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:1626:75: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:510:72: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:548:72: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:619:74: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:625:76: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:651:73: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:657:75: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:724:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Not using units is deprecated. Assuming 'px'.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Expected a string.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Not using units is deprecated. Assuming 'px'.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Expected a string.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1295:60: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1307:62: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1359:62: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1372:72: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1426:54: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1437:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1447:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1456:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1465:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1534:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1588:74: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1594:76: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1620:73: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:1626:75: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Not using units is deprecated. Assuming 'px'.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Expected a string.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3311:53: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3341:51: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3344:53: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3349:53: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3349:87: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3311:53: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3341:51: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3344:53: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3349:53: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3349:87: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3537:8: not a number
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3537:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3537:8: not a number
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3537:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3876:8: not a number
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3876:20: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3896:54: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3904:8: not a number
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3904:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3907:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3311:53: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3341:51: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3344:53: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3349:53: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3349:87: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3537:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3537:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3876:8: not a number
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3876:20: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3896:54: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3904:8: not a number
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3904:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3907:8: not a number
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3907:28: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3910:8: not a number
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:3910:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3907:28: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3910:8: not a number
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:3910:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:4339:54: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:4348:56: Using one color stop with linear-gradient() is deprecated.
+
+(nm-applet:1128): Gtk-WARNING **: Theme parsing error: gtk.css:4358:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Not using units is deprecated. Assuming 'px'.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:2471:9: Expected a string.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:4339:54: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:4348:56: Using one color stop with linear-gradient() is deprecated.
+
+(polkit-gnome-authentication-agent-1:1132): Gtk-WARNING **: Theme parsing error: gtk.css:4358:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3876:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3876:20: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3896:54: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3904:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3904:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3907:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3907:28: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3910:8: not a number
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:3910:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:4339:54: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:4348:56: Using one color stop with linear-gradient() is deprecated.
+
+(volumeicon:1113): Gtk-WARNING **: Theme parsing error: gtk.css:4358:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3311:53: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3341:51: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3344:53: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3349:53: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3349:87: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3537:8: not a number
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3537:17: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3876:8: not a number
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3876:20: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3896:54: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3904:8: not a number
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3904:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3907:8: not a number
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3907:28: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3910:8: not a number
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:3910:22: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:4339:54: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:4348:56: Using one color stop with linear-gradient() is deprecated.
+
+(pamac-tray:1130): Gtk-WARNING **: Theme parsing error: gtk.css:4358:56: Using one color stop with linear-gradient() is deprecated.
+
+(manjaro-welcome:1126): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(manjaro-welcome:1126): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(pamac-tray:1130): Gtk-WARNING **: Failed to get the GNOME session proxy: The name org.gnome.SessionManager is not owned
+
+(pamac-tray:1130): Gtk-WARNING **: Failed to get the Xfce session proxy: The name org.xfce.SessionManager is not owned
+
+(pamac-tray:1130): Gtk-WARNING **: Failed to get an inhibit portal proxy: The name org.freedesktop.portal.Desktop is not owned
+
+(nitrogen:1125): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:1125): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+** Message: console message: file:///usr/share/manjaro-welcome/js/jquery.min.js @4: Error: Syntax error, unrecognized expression: ##
+
+/usr/lib/python3.5/site-packages/gi/overrides/Gtk.py:50: RuntimeWarning: You have imported the Gtk 2.0 module.  Because Gtk 2.0 was not designed for use with introspection some of the interfaces and API will fail.  As such this is not supported by the pygobject development team and we encourage you to port your app to Gtk 3 or greater. PyGTK is the recomended python module to use with Gtk 2.0
+  warnings.warn(warn_msg, RuntimeWarning)
+/usr/bin/manjaro-welcome:34: PyGIWarning: WebKit was imported without specifying a version first. Use gi.require_version('WebKit', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import WebKit, Gtk
+
+(pamac-tray:1130): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+unable to connect to the rxvt-unicode daemon: No such file or directory
+nm-applet-Message: No keyring secrets found for DLINK/802-11-wireless-security; asking user.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(pale moon:2865): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+
+(pale moon:2865): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
